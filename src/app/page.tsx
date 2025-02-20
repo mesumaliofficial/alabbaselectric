@@ -1,6 +1,6 @@
 import Banner from "./Components/Home/Banner";
+import Home_Service from "./Components/Home/Home_Service";
 import Navbar from "./Components/Home/Navbar";
-import Service from "./Components/Home/Service";
 import Topbar from "./Components/Home/Topbar";
 
 export default function Home() {
@@ -9,7 +9,7 @@ export default function Home() {
     <Topbar />
     <Navbar />
     <Banner />
-    <Service /> 
+    <Home_Service /> 
     </>
   );
 }

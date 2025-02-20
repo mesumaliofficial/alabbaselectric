@@ -27,7 +27,7 @@ const Service = () => {
     ];
 
     return (
-        <div className="service relative bg-gray-100 py-20">
+        <div className="service relative bg-gray-100 py-80 lg:py-20 md:py-48">
             <div className="container mx-auto px-6 lg:px-16 py-10">
                 <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center">
                     <div className="max-w-lg border-l-4 border-blue-950 pl-5">
