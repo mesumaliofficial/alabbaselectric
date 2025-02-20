@@ -45,7 +45,7 @@ const Home_Service = () => {
                         <div className="col-span-2 lg:pr-20">
                             <h1 className="text-xl md:text-2xl lg:text-3xl font-bold text-blue-950">Domestic Services</h1>
                             <p className="text-gray-500 md:text-lg text-base font-[500] py-5">
-                                Al Abbas offers comprehensive domestic electrical services to meet all of your home electrical needs. Whether you need routine maintenance, repairs, or upgrades, our skilled technicians are ready to provide fast, reliable, and affordable solutions to keep your home's electrical systems running smoothly.
+                                Al Abbas offers comprehensive domestic electrical services to meet all of your home electrical needs. Whether you need routine maintenance, repairs, or upgrades, our skilled technicians are ready to provide fast, reliable, and affordable solutions to keep your home&apos;s electrical systems running smoothly.
                             </p>
 
                             {/* Service Features */}
