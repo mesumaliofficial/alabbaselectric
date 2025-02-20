@@ -18,7 +18,6 @@ const ServiceButton = ({ text, active }: { text: string, active: boolean }) => {
 };
 
 const Home_Service = () => {
-    const [activeService, setActiveService] = useState("Domestic");
     return (
         <>
             <div className="bg-gray-100 pt-96 lg:pt-32 md:pt-56 text-center">
