@@ -2,3 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Scrollbar for WebKit Browsers */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background:  #172554; /* Blue */
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #172554; /* Darker Blue */
+  }
+  
