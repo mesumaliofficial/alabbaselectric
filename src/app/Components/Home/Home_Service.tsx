@@ -2,7 +2,6 @@
 import { FaIndustry } from "react-icons/fa6";
 import Image from "next/image";
 import Home_Service_1 from './images/Home_service_1.jpg';
-import { useState } from "react";
 
 const ServiceButton = ({ text, active }: { text: string, active: boolean }) => {
     return (
