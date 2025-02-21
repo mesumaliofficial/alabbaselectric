@@ -170,11 +170,11 @@ const Home_Service = () => {
                                         <li className="flex items-center gap-3">
                                             <FaBolt className="text-yellow-400 text-xl" /> Outlet installation and repair
                                         </li>
-                                    </ul>
-                                    <ul className="space-y-4">
                                         <li className="flex items-center gap-3">
                                             <FaBolt className="text-yellow-400 text-xl" /> Ceiling fan installation and repair
                                         </li>
+                                    </ul>
+                                    <ul className="space-y-4">
                                         <li className="flex items-center gap-3">
                                             <FaBolt className="text-yellow-400 text-xl" /> All lighting requirements – fixture installation, replacement, and repair
                                         </li>
