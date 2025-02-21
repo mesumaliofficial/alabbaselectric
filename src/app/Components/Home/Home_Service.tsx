@@ -148,7 +148,7 @@ const Home_Service = () => {
                             <div className="lg:col-span-2">
                                 <h1 className="text-xl md:text-2xl lg:text-3xl font-semibold text-blue-950">Commercial Services</h1>
                                 <p className="text-gray-500 md:text-lg text-base font-medium py-5">
-                                    Al Abbas offers comprehensive commercial electrical services to meet the needs of businesses and organizations of all sizes. Our team of experienced technicians can handle all types of electrical projects, from routine maintenance to complex installations, ensuring the safety, efficiency, and reliability of your commercial electrical systems.
+                                    Al Abbas offers comprehensive commercial electrical services to meet the needs of businesses and organizations of all sizes.&apos; Our team of experienced technicians can handle all types of electrical projects, from routine maintenance to complex installations, ensuring the safety, efficiency, and reliability of your commercial electrical systems.
                                 </p>
                                 {/* Services List */}
                                 <div className="grid grid-cols-1 lg:mt-6 md:grid-cols-2 gap-6 text-blue-950 font-medium capitalize text-base">
