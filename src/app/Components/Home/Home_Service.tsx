@@ -74,7 +74,7 @@ const Home_Service = () => {
                                 <h1 className="text-xl md:text-2xl lg:text-3xl font-semibold text-blue-950">Domestic Services</h1>
                                 <p className="text-gray-500 md:text-lg text-base font-medium py-5">
                                     Al Abbas offers comprehensive domestic electrical services for all home electrical needs.
-                                    Whether it's routine maintenance, repairs, or upgrades, our skilled technicians provide
+                                    Whether it&apos;s routine maintenance, repairs, or upgrades, our skilled technicians provide
                                     fast, reliable, and affordable solutions.
                                 </p>
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -148,7 +148,7 @@ const Home_Service = () => {
                             <div className="lg:col-span-2">
                                 <h1 className="text-xl md:text-2xl lg:text-3xl font-semibold text-blue-950">Commercial Services</h1>
                                 <p className="text-gray-500 md:text-lg text-base font-medium py-5">
-                                    Al Abbas offers comprehensive commercial electrical services to meet the needs of businesses and organizations of all sizes.&apos; Our team of experienced technicians can handle all types of electrical projects, from routine maintenance to complex installations, ensuring the safety, efficiency, and reliability of your commercial electrical systems.
+                                    Al Abbas offers comprehensive commercial electrical services to meet the needs of businesses and organizations of all sizes. Our team of experienced technicians can handle all types of electrical projects, from routine maintenance to complex installations, ensuring the safety, efficiency, and reliability of your commercial electrical systems.
                                 </p>
                                 {/* Services List */}
                                 <div className="grid grid-cols-1 lg:mt-6 md:grid-cols-2 gap-6 text-blue-950 font-medium capitalize text-base">
@@ -183,7 +183,7 @@ const Home_Service = () => {
                                             <FaBolt className="text-yellow-400 text-xl" /> Solar System
                                         </li>
                                         <li className="flex items-center gap-3">
-                                            <FaBolt className="text-yellow-400 text-xl" /> Steer lights & Solar lights
+                                            <FaBolt className="text-yellow-400 text-xl" /> Steer lights &amp; Solar lights
                                         </li>
                                         <li className="flex items-center gap-3">
                                             <FaBolt className="text-yellow-400 text-xl" /> Lights distribution
@@ -199,7 +199,5 @@ const Home_Service = () => {
         </>
     );
 };
-
-
 
 export default Home_Service;
