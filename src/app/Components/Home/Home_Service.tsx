@@ -52,9 +52,7 @@ const Home_Service = () => {
             <div className=" pt-96 lg:pt-32 md:pt-56 text-center">
                 <div className="max-w-2xl text-center mx-auto">
                     <h1 className="text-sm md:text-xl lg:text-2xl font-bold text-gray-500 uppercase">Our Services</h1>
-                    <p className="text-lg md:text-2xl lg:text-[45px] lg:leading-10 mt-3 font-bold text-[#34495e] capitalize">
-                        We are a Full Service Electrical Contractor
-                    </p>
+                    <p className="text-lg md:text-2xl lg:text-[45px] lg:leading-10 mt-3 font-bold text-[#34495e] capitalize">We are a Full Service Electrical Contractor</p>
                 </div>
 
                 {/* Services Section */}
